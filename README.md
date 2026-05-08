@@ -10,7 +10,7 @@ Computer Science student passionate about software development and technology.  
 
 ## Projects
 
-- [Metro Passenger Information Display System]([https://github.com/YOUR_USERNAME/metro-display-system](https://github.com/Mohamad-Omar-Aboghalon/Metro-Passenger-Display-System)  
+- [Metro Passenger Information Display System](https://github.com/Mohamad-Omar-Aboghalon/Metro-Passenger-Display-System)  
   Python Tkinter desktop application simulating a metro passenger display.
 
   [Numerical-Analysis-Solver](https://github.com/Mohamad-Omar-Aboghalon/Numerical-Analysis-Solver)

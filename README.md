@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**Mohamad-Omar-Aboghalon/Mohamad-Omar-Aboghalon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 Computer Science student passionate about software development and technology.  <br>Currently learning and building projects in web development, Python, and problem solving.  <br>Interested in creating clean, practical, and user-friendly applications.
 
 
@@ -24,10 +16,3 @@ Computer Science student passionate about software development and technology.  
 [![](https://komarev.com/ghpvc/?username=Mohamad-Omar-Aboghalon&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -17,13 +17,13 @@
 ## 🚀 Projects
 
 - [Metro Passenger Information Display System](https://github.com/Mohamad-Omar-Aboghalon/Metro-Passenger-Display-System)
- Python Tkinter desktop application simulating a metro passenger display.
+ Python Tkinter desktop application simulating a metro passenger display. 
 
 - [Numerical-Analysis-Solver](https://github.com/Mohamad-Omar-Aboghalon/Numerical-Analysis-Solver)
- numerical methods solver built with plain HTML, CSS, and JavaScript.
+ numerical methods solver built with plain HTML, CSS, and JavaScript. [live Demo](https://numerical-analysis-solver.netlify.app/)
 
 - [Simple-BMI-Calculator](https://github.com/Mohamad-Omar-Aboghalon/Simple-BMI-Calculator)
- A simple web-based BMI calculator built with HTML, CSS, and JavaScript.
+ A simple web-based BMI calculator built with HTML, CSS, and JavaScript. [Live Demo](https://eclectic-platypus-afb4fe.netlify.app/)
 
 - [grocery-store-website](https://github.com/Mohamad-Omar-Aboghalon/grocery-store-website)
  A simple grocery store website developed using HTML and CSS as a university project.

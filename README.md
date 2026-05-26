@@ -34,7 +34,7 @@
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohamad-Omar-Aboghalon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://komarev.com/ghpvc/?username=Mohamad-Omar-Aboghalon&style=for-the-badge&color=green)](https://visitcount.itsvg.in)<br/>
 ![](https://github-readme-stats.shion.dev/api?username=Mohamad-Omar-Aboghalon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)

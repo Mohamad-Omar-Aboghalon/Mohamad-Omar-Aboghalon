@@ -29,7 +29,7 @@
 
 ## 📄 Resume
 
-- [Download CV](https://github.com/user-attachments/files/27552212/Mohamad_Omar_Aboghalon_CV.pdf)
+- [Download CV]()
 
 
 

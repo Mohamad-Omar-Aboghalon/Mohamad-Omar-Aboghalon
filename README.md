@@ -7,7 +7,7 @@
 ## 🌐 Socials:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamad-omar-aboghalon-556a83391)
 
-- [![Portfolio](https://img.shields.io/badge/Portfolio-00ff00?&logoColor=white)](https://heartfelt-flan-a91bac.netlify.app/)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-00ff00?&logoColor=white)](https://mohamad-omar-aboghalon.github.io/Portfolio/)
 
 -  [![email](https://img.shields.io/badge/Email-D14836?&logoColor=white)](mailto:mo.aboghalon@gmail.com)
 ## 💻 Tech Stack:

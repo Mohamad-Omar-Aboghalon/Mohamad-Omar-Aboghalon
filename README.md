@@ -18,7 +18,7 @@
 - [Metro Passenger Information Display System](https://github.com/Mohamad-Omar-Aboghalon/Metro-Passenger-Display-System)
  Python Tkinter desktop application simulating a metro passenger display. 
 
-- [Numerical-Analysis-Solver](https://github.com/Mohamad-Omar-Aboghalon/Numerical-Analysis-Solver)
+- [Numerical-Analysis-Solver](https://mohamad-omar-aboghalon.github.io/Numerical-Analysis-Solver/)
  numerical methods solver built with plain HTML, CSS, and JavaScript. [live Demo](https://numerical-analysis-solver.netlify.app/)
 
 - [Simple-BMI-Calculator](https://github.com/Mohamad-Omar-Aboghalon/Simple-BMI-Calculator)

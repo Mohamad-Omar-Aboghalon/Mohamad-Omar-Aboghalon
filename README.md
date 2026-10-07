@@ -1,8 +1,7 @@
 # 💫 About Me:
-- Computer Science student at MTI passionate about software development and technology. <br>
-- Currently learning and building projects in web development, Python, and software engineering while improving my problem-solving and programming skills. <br>
-- Interested in creating clean, practical, and user-friendly applications. 
-
+- Computer Science student at MTI passionate about technology. <br>
+- Currently learning and building projects in software engineering while improving my skills. <br>
+ 
 
 
 ## 🌐 Socials:
